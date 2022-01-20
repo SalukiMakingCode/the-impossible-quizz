@@ -1,0 +1,25 @@
+{
+  "name": "the-impossible-quizz",
+  "version": "1.0.0",
+  "description": "the-impossible-quizz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SalukiMakingCode/the-impossible-quizz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SalukiMakingCode/the-impossible-quizz/issues"
+  },
+  "homepage": "https://github.com/SalukiMakingCode/the-impossible-quizz#readme",
+  "devDependencies": {
+    "eslint": "^8.7.0",
+    "webpack": "^5.66.0",
+    "webpack-cli": "^4.9.1"
+  },
+  "dependencies": {}
+}

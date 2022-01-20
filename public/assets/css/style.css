@@ -1,0 +1,54 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+body h1 {
+  font-size: 20px;
+  text-align: center;
+  font-weight: bold;
+  margin-top: 3rem;
+}
+body #question {
+  font-size: 16px;
+  margin-top: 2rem;
+  display: none;
+}
+body #response {
+  margin-top: 2rem;
+  display: none;
+}
+body #response #inputResponse {
+  width: 45rem;
+}
+body #sendResponse {
+  margin-top: 3rem;
+  padding: 0.8rem 3rem;
+  border: solid 1px black;
+  border-radius: 20px;
+  background-color: darkgray;
+  width: 2rem;
+  cursor: pointer;
+  display: none;
+}
+body #askUsername {
+  font-size: 16px;
+  margin-top: 2rem;
+}
+body #username {
+  margin-top: 2rem;
+}
+body #username #inputUsername {
+  width: 25rem;
+}
+body #sendUsername {
+  margin-top: 3rem;
+  padding: 0.8rem 3rem;
+  border: solid 1px black;
+  border-radius: 20px;
+  background-color: darkgray;
+  width: 2rem;
+  cursor: pointer;
+}
+
+/*# sourceMappingURL=style.css.map */
